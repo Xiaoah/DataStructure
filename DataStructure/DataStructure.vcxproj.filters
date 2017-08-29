@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Linetable.cpp">
+    <ClCompile Include="Linetable_seq.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Linetable_list.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
