@@ -115,6 +115,7 @@
   <ItemGroup>
     <ClCompile Include="Linetable_list.cpp" />
     <ClCompile Include="Linetable_seq.cpp" />
+    <ClCompile Include="StaticLinkList.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
