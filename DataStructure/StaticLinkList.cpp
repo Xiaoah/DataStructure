@@ -92,7 +92,7 @@ Status ListDelete(StaticLinkList L, int i)
 	Free_SLL(L, j);
 	return OK;
 }
-
+/*
 int main(void)
 {
 	StaticLinkList space;
@@ -109,3 +109,4 @@ int main(void)
 	printf("%d\n", space[0].cur);
 	return 0;
 }
+*/
