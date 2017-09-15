@@ -103,6 +103,7 @@ Status DeQueueList(LinkQueue *Q, QElemType *e)
 	return OK;
 }
 
+/*
 int main(void)
 {
 	SqQueue queue;
@@ -126,3 +127,4 @@ int main(void)
 	printf("%d\n", ee);
 	return 0;
 }
+*/
