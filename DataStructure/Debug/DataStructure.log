@@ -1,3 +1,16 @@
-﻿  Queue.cpp
+﻿  Tree.cpp
+e:\code\c++\datastructure\datastructure\tree.cpp(79): warning C4477: “scanf”: 格式字符串“%c”需要类型“char *”的参数，但可变参数 1 拥有了类型“TElemType *”
+  StaticLinkList.cpp
+  Stack.cpp
+  Queue.cpp
+  LinkStack.cpp
+  Linetable_seq.cpp
+  Linetable_list.cpp
+e:\code\c++\datastructure\datastructure\linetable_list.cpp(24): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\code\c++\datastructure\datastructure\linetable_list.cpp(39): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Graph.cpp
+e:\code\c++\datastructure\datastructure\graph.cpp(11): warning C4005: “INFINITY”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(78): note: 参见“INFINITY”的前一个定义
+  正在生成代码...
   DataStructure.vcxproj -> E:\Code\C++\DataStructure\Debug\DataStructure.exe
   DataStructure.vcxproj -> E:\Code\C++\DataStructure\Debug\DataStructure.pdb (Partial PDB)

@@ -74,6 +74,7 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -113,10 +114,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BitreeSearch.cpp" />
+    <ClCompile Include="Graph.cpp" />
     <ClCompile Include="Linetable_list.cpp" />
     <ClCompile Include="Linetable_seq.cpp" />
     <ClCompile Include="LinkStack.cpp" />
     <ClCompile Include="Queue.cpp" />
+    <ClCompile Include="Serach.cpp" />
     <ClCompile Include="Stack.cpp" />
     <ClCompile Include="StaticLinkList.cpp" />
     <ClCompile Include="Tree.cpp" />
